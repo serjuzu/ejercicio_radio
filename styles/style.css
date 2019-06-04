@@ -1,0 +1,24 @@
+.nav-link:hover {
+    background-color: crimson;
+}
+
+.estiradas {
+    width: 100%;
+}
+
+a.pie:hover {
+    color: crimson;
+    text-decoration: underline;
+}
+
+.pie {
+    padding: 10px;
+}
+
+body {
+    background-image: url(../img/bg.gif);
+}
+
+.sobre {
+    width: 70%;
+}
